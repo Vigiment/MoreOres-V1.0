@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "mom:mythril_block" }
+    }
+}
